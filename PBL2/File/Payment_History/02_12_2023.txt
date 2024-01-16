@@ -1,0 +1,6 @@
+******************************************
+Ket Thuc CA: 1
+Nhan Vien: 001
+Gio Check In: 02/12/2023 20:55:16
+Gio Check Out: 02/12/2023 20:55:21
+Tong Tien: 0

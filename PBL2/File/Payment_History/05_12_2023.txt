@@ -1,0 +1,23 @@
+******************************************
+CA: 1
+Nhan Vien: 001
+05/12/2023 21:47:00
+Phin Sua Da;drink;ly;1;29.000;29.000
+Phin Den Da;drink;ly;1;29.000;29.000
+Bac Xiu;drink;ly;1;29.000;29.000
+Mocha Macchiato;drink;ly;1;59.000;59.000
+Cappuccino;drink;ly;1;55.000;55.000
+Espresso;drink;ly;1;35.000;35.000
+236.000
+******************************************
+Ket Thuc CA: 1
+Nhan Vien: 001
+Gio Check In: 05/12/2023 21:45:23
+Gio Check Out: 05/12/2023 21:51:00
+Tong Tien: 236.000
+******************************************
+Ket Thuc CA: 1
+Nhan Vien: 001
+Gio Check In: 05/12/2023 21:51:55
+Gio Check Out: 05/12/2023 21:52:33
+Tong Tien: 0

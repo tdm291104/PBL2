@@ -1,0 +1,21 @@
+drink;Phin Sua Da;ly;29000
+drink;Phin Den Da;ly;29000
+drink;Bac Xiu;ly;29000
+drink;Espresso;ly;35000
+drink;Cappuccino;ly;55000
+drink;Mocha Macchiato;ly;59000
+drink;Tra Sen Vang;ly;39000
+drink;Tra Thach Dao;ly;39000
+drink;Tra Thanh Dao;ly;39000
+drink;Tra Thach Vai;ly;39000
+food;Banh My Ga Xe;banh;19000
+food;Banh My Ca Ri Ga;banh;19000
+food;Banh My Ca Ngu;banh;19000
+food;Banh My Nam;banh;19000
+food;Tiramisu;banh;19000
+food;Banh Chuoi;banh;19000
+food;Mousse Dao;banh;29000
+food;Mousse Cacao;banh;29000
+food;Pho Mai Tra Xanh;banh;29000
+
+food;Banh Kem;banh;25000

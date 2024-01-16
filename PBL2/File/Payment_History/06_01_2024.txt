@@ -1,0 +1,24 @@
+******************************************
+Ket Thuc CA: 1
+Nhan Vien: 001
+Gio Check In: 06/01/2024 09:28:05
+Gio Check Out: 06/01/2024 09:29:00
+Tong Tien: 0
+******************************************
+Ket Thuc CA: 3
+Nhan Vien: 002
+Gio Check In: 06/01/2024 09:29:12
+Gio Check Out: 06/01/2024 09:30:26
+Tong Tien: 0
+******************************************
+Ket Thuc CA: 2
+Nhan Vien: 001
+Gio Check In: 06/01/2024 09:30:44
+Gio Check Out: 06/01/2024 09:30:49
+Tong Tien: 0
+******************************************
+Ket Thuc CA: 1
+Nhan Vien: 001
+Gio Check In: 06/01/2024 09:31:05
+Gio Check Out: 06/01/2024 09:31:11
+Tong Tien: 0
